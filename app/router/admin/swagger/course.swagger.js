@@ -61,9 +61,9 @@
  *                                      type: integer
  *                                      example: 250,000
  *                                  discount:
- *                                      type: interger
+ *                                      type: integer
  *                                      example: 20
- *                                  studendtCount:
+ *                                  studentCount:
  *                                      type: integer
  *                                      example: 340
  *                                  teacher:
