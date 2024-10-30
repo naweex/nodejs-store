@@ -8,19 +8,19 @@
  *      -   name: Transactions(AdminPanel)
  *          description: getAndview All transactions of users
  *      -   name : RBAC(AdminPanel)
- *          description : RoleBaseAccessControll System create and manage role and permissions 
+ *          description : RoleBaseAccessControl System create and manage role and permissions 
  *      -   name : Users(AdminPanel)
- *          description : managment users of website 
+ *          description : management users of website 
  *      -   name : Course(AdminPanel)
- *          description : managment course section like manage episode, chapter and courses
+ *          description : management course section like manage episode, chapter and courses
  *      -   name : Chapter(AdminPanel)
- *          description : managment Chapters section
+ *          description : management Chapters section
  *      -   name : Episode(AdminPanel)
  *          description : the videos(episode) of Chapter section
  *      -   name: Product(AdminPanel)
  *          description : management product routes
  *      -   name: Blog(AdminPanel)
- *          description: made blog managment admin panel 
+ *          description: made blog management admin panel 
  *      -   name: Category(AdminPanel)
  *          description: all method and routes about category section
  *      -   name: Prisma(Api)
